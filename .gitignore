@@ -1,0 +1,20 @@
+# Archivos de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Directorios de compilación
+bin/
+obj/
+
+# Paquetes de NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Publicaciones
+publish/
