@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\bin\Debug\net8.0\7.CondicionalTerniario.exe
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\bin\Debug\net8.0\7.CondicionalTerniario.deps.json
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\bin\Debug\net8.0\7.CondicionalTerniario.runtimeconfig.json
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\bin\Debug\net8.0\7.CondicionalTerniario.dll
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\bin\Debug\net8.0\7.CondicionalTerniario.pdb
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\7.CondicionalTerniario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\7.CondicionalTerniario.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\7.CondicionalTerniario.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\7.CondicionalTerniario.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\7.CondicionalTerniario.sourcelink.json
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\7.CondicionalTerniario.dll
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\refint\7.CondicionalTerniario.dll
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\7.CondicionalTerniario.pdb
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\7.CondicionalTerniario.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\EmmanuelGit\EMMANNUELSANCHEZREPOSITORIO\7.CondicionalTerniario\7.CondicionalTerniario\obj\Debug\net8.0\ref\7.CondicionalTerniario.dll
