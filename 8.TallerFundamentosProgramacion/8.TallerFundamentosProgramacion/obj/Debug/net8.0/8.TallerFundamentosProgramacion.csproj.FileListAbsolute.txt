@@ -1,0 +1,14 @@
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\bin\Debug\net8.0\8.TallerFundamentosProgramacion.exe
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\bin\Debug\net8.0\8.TallerFundamentosProgramacion.deps.json
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\bin\Debug\net8.0\8.TallerFundamentosProgramacion.runtimeconfig.json
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\bin\Debug\net8.0\8.TallerFundamentosProgramacion.dll
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\bin\Debug\net8.0\8.TallerFundamentosProgramacion.pdb
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\obj\Debug\net8.0\8.TallerFundamentosProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\obj\Debug\net8.0\8.TallerFundamentosProgramacion.AssemblyInfoInputs.cache
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\obj\Debug\net8.0\8.TallerFundamentosProgramacion.AssemblyInfo.cs
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\obj\Debug\net8.0\8.TallerFundamentosProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\obj\Debug\net8.0\8.TallerFundamentosProgramacion.dll
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\obj\Debug\net8.0\refint\8.TallerFundamentosProgramacion.dll
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\obj\Debug\net8.0\8.TallerFundamentosProgramacion.pdb
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\obj\Debug\net8.0\8.TallerFundamentosProgramacion.genruntimeconfig.cache
+C:\Users\B09S105est\source\repos\8.TallerFundamentosProgramacion\8.TallerFundamentosProgramacion\obj\Debug\net8.0\ref\8.TallerFundamentosProgramacion.dll
