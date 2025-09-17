@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\bin\Debug\net6.0\12.Ejercicio.exe
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\bin\Debug\net6.0\12.Ejercicio.deps.json
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\bin\Debug\net6.0\12.Ejercicio.runtimeconfig.json
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\bin\Debug\net6.0\12.Ejercicio.dll
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\bin\Debug\net6.0\12.Ejercicio.pdb
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\12.Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\12.Ejercicio.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\12.Ejercicio.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\12.Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\12.Ejercicio.sourcelink.json
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\12.Ejercicio.dll
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\refint\12.Ejercicio.dll
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\12.Ejercicio.pdb
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\12.Ejercicio.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\12.Ejercicio\obj\Debug\net6.0\ref\12.Ejercicio.dll
