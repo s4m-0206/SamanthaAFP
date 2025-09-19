@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\bin\Debug\net8.0\ParcialCiclos2.exe
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\bin\Debug\net8.0\ParcialCiclos2.deps.json
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\bin\Debug\net8.0\ParcialCiclos2.runtimeconfig.json
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\bin\Debug\net8.0\ParcialCiclos2.dll
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\bin\Debug\net8.0\ParcialCiclos2.pdb
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\ParcialCiclos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\ParcialCiclos2.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\ParcialCiclos2.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\ParcialCiclos2.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\ParcialCiclos2.sourcelink.json
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\ParcialCiclos2.dll
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\refint\ParcialCiclos2.dll
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\ParcialCiclos2.pdb
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\ParcialCiclos2.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\SamanthaA\SamanthaAFP\ParcialCiclos2\ParcialCiclos2\obj\Debug\net8.0\ref\ParcialCiclos2.dll
