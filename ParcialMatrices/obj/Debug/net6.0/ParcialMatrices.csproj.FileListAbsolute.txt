@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\bin\Debug\net6.0\ParcialMatrices.exe
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\bin\Debug\net6.0\ParcialMatrices.deps.json
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\bin\Debug\net6.0\ParcialMatrices.runtimeconfig.json
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\bin\Debug\net6.0\ParcialMatrices.dll
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\bin\Debug\net6.0\ParcialMatrices.pdb
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\ParcialMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\ParcialMatrices.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\ParcialMatrices.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\ParcialMatrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\ParcialMatrices.sourcelink.json
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\ParcialMatrices.dll
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\refint\ParcialMatrices.dll
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\ParcialMatrices.pdb
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\ParcialMatrices.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\samantagit\SamanthaAFP\SamanthaAFP\ParcialMatrices\obj\Debug\net6.0\ref\ParcialMatrices.dll
