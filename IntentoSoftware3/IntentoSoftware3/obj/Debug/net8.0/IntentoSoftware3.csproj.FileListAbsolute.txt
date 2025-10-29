@@ -1,0 +1,14 @@
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\bin\Debug\net8.0\IntentoSoftware3.exe
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\bin\Debug\net8.0\IntentoSoftware3.deps.json
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\bin\Debug\net8.0\IntentoSoftware3.runtimeconfig.json
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\bin\Debug\net8.0\IntentoSoftware3.dll
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\bin\Debug\net8.0\IntentoSoftware3.pdb
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\obj\Debug\net8.0\IntentoSoftware3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\obj\Debug\net8.0\IntentoSoftware3.AssemblyInfoInputs.cache
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\obj\Debug\net8.0\IntentoSoftware3.AssemblyInfo.cs
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\obj\Debug\net8.0\IntentoSoftware3.csproj.CoreCompileInputs.cache
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\obj\Debug\net8.0\IntentoSoftware3.dll
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\obj\Debug\net8.0\refint\IntentoSoftware3.dll
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\obj\Debug\net8.0\IntentoSoftware3.pdb
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\obj\Debug\net8.0\IntentoSoftware3.genruntimeconfig.cache
+C:\Users\B09S206est\Documents\ProgramacionSam\IntentoSoftware3\IntentoSoftware3\obj\Debug\net8.0\ref\IntentoSoftware3.dll

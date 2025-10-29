@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IntentoSoftware3/1.0.0": {
+        "runtime": {
+          "IntentoSoftware3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntentoSoftware3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
